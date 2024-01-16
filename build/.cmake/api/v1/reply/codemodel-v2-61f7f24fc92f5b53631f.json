@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3731f79dd2c5c422c529.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtPersonnelManagementApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPersonnelManagementApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPersonnelManagementApp-Debug-4034bec65d5504c7f4a2.json",
+					"name" : "QtPersonnelManagementApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPersonnelManagementApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPersonnelManagementApp_autogen-Debug-701af07adc4c0965b848.json",
+					"name" : "QtPersonnelManagementApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPersonnelManagementApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPersonnelManagementApp_autogen_timestamp_deps-Debug-e5dd8bc83346f3713116.json",
+					"name" : "QtPersonnelManagementApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kalep/Documents/Qt/QtPersonnelManagementApp/build",
+		"source" : "C:/Users/kalep/Documents/Qt/QtPersonnelManagementApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
